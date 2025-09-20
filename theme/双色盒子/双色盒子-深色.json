@@ -16,7 +16,7 @@
     "fast_ui_mode": false,
     "waifuMode": false,
     "avatar_style": 0,
-    "chat_display": 2,
+    "chat_display": 1,
     "toastr_position": "toast-top-center",
     "noShadows": true,
     "chat_width": 50,
