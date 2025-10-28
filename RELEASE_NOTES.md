@@ -28,3 +28,13 @@
 [publish:快捷指令面板->script/快捷指令面板] 修改样式
 
 ---
+
+## Release - 2025-10-28 17:22:58 UTC
+
+**Commit:** 750cb168679806acaa60cc04427f845437fe6600
+**Published Targets:** 快捷指令面板->script/快捷指令面板
+
+**Original Commit Message:**
+[publish:快捷指令面板->script/快捷指令面板] 修复前后缀重复的问题
+
+---
