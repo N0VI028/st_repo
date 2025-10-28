@@ -8,3 +8,13 @@
 [publish:快捷指令面板->script/快捷指令面板] 发布
 
 ---
+
+## Release - 2025-10-28 15:26:17 UTC
+
+**Commit:** 3b35d7e614eff8df791c35adb98a60b37d638f25
+**Published Targets:** 快捷指令面板->script/快捷指令面板
+
+**Original Commit Message:**
+[publish:快捷指令面板->script/快捷指令面板] 发布
+
+---
