@@ -1,0 +1,38 @@
+{
+  "id": "efd11d80-6b18-418b-b08b-10c6d227d3a7",
+  "name": "快捷指令大全",
+  "content": "import \"https://fastly.jsdelivr.net/gh/N0VI028/st_repo/script/quick_command/index.js\"",
+  "info": "作者：夜宵宵夜;喂自己爬过来给我当狗;\n改脚本：KAKAA\n原贴：[【QR分享】剧情推进及控制+爱爱指令大全(本体女性向)(已改出男/BL/GL/GB/双性多性向适配版本)✨——懒人必备/适配手机酒馆/花市老司机精华提炼](https://discord.com/channels/1291925535324110879/1369331757400199228/1369331757400199228)",
+  "buttons": [
+    {
+      "name": "💝指令快捷菜单",
+      "visible": true
+    }
+  ],
+  "data": {
+    "settings": {
+      "replaceNames": true,
+      "selectedPrefixSuffix": {
+        "prefix": [],
+        "suffix": []
+      },
+      "defaultSecondaryTabs": {
+        "plot": "plot_control",
+        "love": "love_female",
+        "fancy": "fancy_female"
+      }
+    },
+    "prefixSuffix": {
+      "推进性爱剧情": "请严格遵守当前指令逐步推进性爱剧情，禁止进展过快，禁止回避性器官词汇，叙述要直白且色情。",
+      "禁止高潮": "所有角色和user都禁止高潮或射精。",
+      "禁止照搬": "描写需富有创新性，举一反三，禁止完全照抄举例内容。",
+      "防止过激I": "所有角色的情绪都平复一点，别激动。角色动作要温柔。",
+      "防止过激II": "需维持合理节奏,对话和心理描写，保持情绪连贯，防止角色产生极端情绪或反应。",
+      "承接剧情人设": "请承接当前角色以及人设。",
+      "允许不连贯": "允许轻微不连贯或脱离前文剧情。",
+      "详细描写character": "对character的生理反应和体感进行详细描写。",
+      "详细描写user": "对user的生理反应和体感进行详细描写。",
+      "开启小剧场": "请暂停当前主线剧情，开启一段只存在于幻想中的小剧场，不影响后续故事发展，人物状态以及人设。"
+    }
+  }
+}
