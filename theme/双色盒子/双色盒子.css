@@ -462,6 +462,10 @@ body[data-stscript-style] .hljs.language-stscript,
   background-color: var(--code-color);
 }
 
+/* 折叠框标题 */
+.standoutHeader.inline-drawer-header {
+  padding: 5px 0;
+}
 /*
  * 作者：KAKAA | Discord: @rech0_viixi
  * 发布社区：类脑ΟΔΥΣΣΕΙΑ（https://discord.com/channels/1134557553011998840/1340273995018141757）
@@ -558,7 +562,6 @@ body.waifuMode #top-bar {
   background-clip: text;
   color: transparent;
 }
-
 
 /* border-bottom在背景图库会有样式问题 */
 .drawer-content {
@@ -899,6 +902,10 @@ label[for="openai_image_inlining"] + div,
   }
 }
 
+#WorldInfo .select2 {
+  margin-top: 5px;
+}
+
 .world_entry {
   margin-top: var(--spacing-short);
 }
@@ -957,7 +964,7 @@ span.select2.select2-container .select2-selection__choice__remove,
 }
 
 #bg-header-fixed .flex-container.alignItemsBaseline.wide100p {
-  margin-bottom: 0!important;
+  margin-bottom: 0 !important;
 }
 
 #bg-header-title::before {
@@ -987,7 +994,7 @@ span.select2.select2-container .select2-selection__choice__remove,
 }
 
 .BGSampleTitle {
-  color: #eeeeee!important;
+  color: #eeeeee !important;
 }
 
 /* ---用户设置--- */
