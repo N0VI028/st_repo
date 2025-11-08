@@ -1020,7 +1020,8 @@ label[for="char-management-dropdown"] {
   align-items: center;
 }
 
-.character_select {
+.character_select,
+.bogus_folder_select {
   margin-top: calc(var(--mainFontSize) * 0.8);
 }
 
