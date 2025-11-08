@@ -265,7 +265,8 @@ textarea[type="search"] {
 #bulk_tag_popup_remove_mutual,
 .mes_edit_cancel.menu_button,
 .menu_button.popup-button-ok,
-.redWarningBG {
+.redWarningBG,
+.red_button {
   background-color: var(--crimson70a) !important;
   color: var(--white100) !important;
 }
