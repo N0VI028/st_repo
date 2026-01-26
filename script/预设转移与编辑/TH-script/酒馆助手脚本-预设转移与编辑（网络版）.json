@@ -1,0 +1,18 @@
+{
+  "type": "script",
+  "enabled": false,
+  "name": "预设转移与编辑（网络版）",
+  "id": "b243bf33-3a5b-44be-93df-a3090a56fcc6",
+  "content": "import \"https://st-repo.kakaa.win/script/预设转移与编辑/index.js\"",
+  "info": "## 预设转移与编辑（网络版）\n作者：**KAKAA | discord：@rech0_viixi**\n\n<font color=Red>禁止</font>任何形式的商用或商用目的的引流\n二次创作请注明作者和出处\n\n<small>💡网络版可后台自动更新，出了新版无需再次下载，有时需要清理浏览器缓存，但受网络状态和cloudflare影响，可能打不开</small>",
+  "button": {
+    "enabled": true,
+    "buttons": [
+      {
+        "name": "预设转移",
+        "visible": true
+      }
+    ]
+  },
+  "data": {}
+}
