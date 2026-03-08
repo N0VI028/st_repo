@@ -80,11 +80,7 @@
 /* 标题装饰 */
 .standoutHeader strong,
 #right-nav-panel h2,
-.drawer-content > h3,
-.drawer-content
-  .flex-container
-  h3:first-of-type:not(#Backgrounds .textAlignCenter),
-.drawer-content .flex-container .flex-container h3:first-of-type,
+.drawer-content h3.margin0,
 .popup h3:not(dialog *) {
   font-size: calc(var(--mainFontSize) * 1.2);
   font-weight: 600;
@@ -96,11 +92,7 @@
 
 .standoutHeader strong::before,
 #right-nav-panel h2::before,
-.drawer-content > h3::before,
-.drawer-content
-  .flex-container
-  h3:first-of-type:not(#Backgrounds .textAlignCenter)::before,
-.drawer-content .flex-container .flex-container h3:first-of-type::before,
+.drawer-content h3.margin0::before,
 .popup h3:not(dialog *)::before {
   content: "✦";
   position: relative;
@@ -116,11 +108,7 @@
 @supports (-webkit-touch-callout: none) {
   .standoutHeader strong::before,
   #right-nav-panel h2::before,
-  .drawer-content > h3::before,
-  .drawer-content
-    .flex-container
-    h3:first-of-type:not(#Backgrounds .textAlignCenter)::before,
-  .drawer-content .flex-container .flex-container h3:first-of-type::before,
+  .drawer-content h3.margin0::before,
   .popup h3:not(dialog *)::before {
     font-size: calc(var(--mainFontSize) * 1.7);
   }
@@ -137,6 +125,7 @@
 #title_api,
 #AdvancedFormatting .flex-container.alignItemsBaseline:not(h3),
 #WorldInfo .alignitemscenter:not(#world_popup *),
+#Backgrounds .bg-header-row-1,
 #user-settings-block div[name="userSettingsRowOne"],
 #rm_extensions_block
   .alignitemscenter.flex-container.wide100p:not(.justifyCenter) {
